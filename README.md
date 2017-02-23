@@ -18,9 +18,12 @@ Remember to use 3.3V as source for the ADF4351 module (pin 7 vcc and pin 5 as GN
 ![Screenshot](dividernew.png)
 
 If you are using a 3.3V microcontroller like for example Arduino DUE, or Teensy boards, you probably don't need this.
+
+
+<br>
 <b>Feature:</b>
 
--Set Frequency from 34 Mhz to 4400 Mhz<br>
+-Frequency from 34 Mhz to 4400 Mhz<br>
 -EEprom saving and readings (automatically on startup on memory 0)<br>
 
 To set frequency move cursor with LEFT/RIGHT and press UP/DOWN to change value. If you move cursor to REE use UP/DOWN to set WEE (Read and Write).<br>
