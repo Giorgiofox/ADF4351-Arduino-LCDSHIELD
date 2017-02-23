@@ -33,7 +33,7 @@ To Store a new memory select number, set WEE and press "SELECT" for 2 seconds. T
 -Better Interface <br>
 -Output power handling <br>
 -Rotative Encoder <br>
-
+-Support for other display
 
 
 73
