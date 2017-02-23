@@ -11,8 +11,8 @@ See sketch for wiring details and other things :)
 -EEprom saving and readings (automatically on startup on memory 0)<br>
 
 
-<b>To do :</b><br>
-
+<b>To do :</b>
+<br>
 -Better Interface <br>
 -Output power handling <br>
 -Rotative Encoder <br>
