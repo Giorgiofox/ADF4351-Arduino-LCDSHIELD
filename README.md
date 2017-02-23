@@ -6,7 +6,6 @@ See sketch for wiring details and other things :)
 
 ![Screenshot](image.jpg)
 
-
 pinout:<br>
 
 Arduino A4 -> 7 (MUX)<BR>
@@ -34,6 +33,8 @@ To Store a new memory select number, set WEE and press "SELECT" for 2 seconds. T
 -Better Interface <br>
 -Output power handling <br>
 -Rotative Encoder <br>
+
+
 
 73
 Giorgio IZ2XBZ
