@@ -6,14 +6,19 @@ See sketch for wiring details and other things :)
 
 ![Screenshot](image.jpg)
 
+<b>Feature:</b>
+-Set Frequency from 34 Mhz to 4400 Mhz<br>
+-EEprom saving and readings (automatically on startup on memory 0)<br>
 
-To do :
 
--Better Interface
+<b>To do :</b><br>
 
--Output power handling
+-Better Interface <br>
+-Output power handling <br>
+-Rotative Encoder <br>
 
--Rotative Encoder 
+73
+Giorgio IZ2XBZ
 
 
 
