@@ -16,13 +16,14 @@ Arduino 3  -> 3 (LE)<BR>
 
 Remember to use 3.3V as source for the ADF4351 module (pin 7 vcc and pin 5 as GND)and a voltage divider for signals:
 
-![Screenshot](divider.png)
+![Screenshot](dividernew.png)
 
 <b>Feature:</b>
 
 -Set Frequency from 34 Mhz to 4400 Mhz<br>
 -EEprom saving and readings (automatically on startup on memory 0)<br>
 
+To set frequency move cursor with LEFT/RIGHT and press UP/DOWN to change value. If you move cursor to REE use UP/DOWN to set WEE (Read and Write). To use memories move cursor to memory number and press UP/DOWN to select memomry (new frequency will be tuned immediatly).<br>To Store a new memory select number, set WEE and press "SELECT" for 2 seconds. That's all.  
 
 <b>To do :</b>
 
