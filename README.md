@@ -17,6 +17,7 @@ Remember to use 3.3V as source for the ADF4351 module (pin 7 vcc and pin 5 as GN
 
 ![Screenshot](dividernew.png)
 
+If you are using a 3.3V microcontroller like for example Arduino DUE, or Teensy boards, you probably don't need this.
 <b>Feature:</b>
 
 -Set Frequency from 34 Mhz to 4400 Mhz<br>
@@ -33,7 +34,7 @@ To Store a new memory select number, set WEE and press "SELECT" for 2 seconds. T
 -Better Interface <br>
 -Output power handling <br>
 -Rotative Encoder <br>
--Support for other display
+-Support for other displays
 
 
 73
